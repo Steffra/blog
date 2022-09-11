@@ -1,4 +1,4 @@
-<div class="flex flex-col sm:justify-center sm:pt-0 bg-white shadow-md overflow-hidden sm:rounded-lg mb-10 pl-2 py-3">
+<div class="flex flex-col sm:justify-center bg-white shadow-md overflow-hidden sm:rounded-lg mb-10 pl-2 py-3">
     <div class="mx-2">
         <div class="text-left font-bold text-xl">
             {{ $post->title }}
