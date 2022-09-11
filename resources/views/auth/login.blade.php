@@ -52,7 +52,7 @@
         </form>
         <hr/>
             <div class="flex items-center justify-center mt-4 text-sm">
-                Dont have an account yet?
+                Don't have an account yet?
             </div>
             <div class="flex items-center justify-center mt-4">
                 <x-primary-button-outline class="ml-3" onclick="window.location='{{ route('register') }}'">
