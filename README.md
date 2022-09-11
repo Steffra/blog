@@ -1,19 +1,25 @@
 # Simple blog in laravel
 
-Dockerized implementation of a basic blog application
+Dockerized implementation of a basic blog application.
 
 ## Prerequisites
 - Make sure you have **docker**, and **docker compose** installed on your local machine
 
 ## Installation
+Start the application with the following command: 
+```docker-compose up -d```
 
-- Clone this repository 
-- Run command: `docker-compose up -d`
-- Run the initialization steps: `docker exec -it blog_php /bin/bash init_app.sh`
-- After this, the app will be available on `localhost:8000`
+## Initialization
+```docker exec -it blog_php /bin/bash init_app.sh```
 
 
-Technologies used:
-- PHP 8.1
-- Laravel 9
-- Laravel Breeze
+Open [ localhost:8000]( localhost:8000 " localhost:8000") in a browser.
+
+### Test credentials
+-  Test user:
+-   email:testuser@test.test
+-   password: password
+-  Admin:
+-  email:testadmin@test.test
+-  password: password
+
