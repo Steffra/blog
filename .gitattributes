@@ -1,4 +1,6 @@
 * text=false
+# Never modify line endings of our bash scripts
+*.sh -crlf
 
 *.blade.php diff=html
 *.css diff=css
