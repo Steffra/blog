@@ -49,15 +49,15 @@
                     {{ __('Log in') }}
                 </x-primary-button>
             </div>
-            <hr/>
+        </form>
+        <hr/>
             <div class="flex items-center justify-center mt-4 text-sm">
                 Dont have an account yet?
             </div>
             <div class="flex items-center justify-center mt-4">
-                <x-primary-button-outline class="ml-3">
+                <x-primary-button-outline class="ml-3" onclick="window.location='{{ route('register') }}'">
                     {{ __('Register') }}
                 </x-primary-button-outline>
             </div>
-        </form>
     </x-auth-card>
 </x-guest-layout>
