@@ -24,6 +24,7 @@ class PostService
 
     public function publishNewPost(StorePostRequest $request): void
     {
+        date_default_timezone_set('Europe/Vienna');
         Post::create([
             'title' => $request->title,
             'body' => $request->body,
