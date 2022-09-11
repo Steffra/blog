@@ -16,7 +16,7 @@ The original task description can be read **[here]( https://gitlab.timebite.eu/r
 
 ```docker exec -it blog_php /bin/bash init_app.sh```
 
--  Open [ localhost:8000/]( localhost:8000/ " localhost:8000/") in a browser.
+-  Open [ localhost:8000]( http://localhost:8000/ " http://localhost:8000/") in a browser.
 
 ### Test credentials
 - Test user:
