@@ -9,7 +9,7 @@ The original task description can be read **[here]( https://gitlab.timebite.eu/r
 ## Installation
 -  Start the application with the following command: 
 
-```docker-compose up -d```
+```docker compose up -d```
 
 ## Initialization
 -  When running the app for the first time, initialize it with:
