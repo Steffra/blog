@@ -20,10 +20,10 @@ The original task description can be read **[here]( https://gitlab.timebite.eu/r
 -  Open [ localhost:8000]( localhost:8000 " localhost:8000") in a browser.
 
 ### Test credentials
--  Test user:
-  -  email:testuser@test.test
-  -  password: password
--  Admin:
-  -  email:testadmin@test.test
-  -  password: password
+- Test user:
+    -  email:testuser@test.test
+    -  password: password
+- Admin:
+    -  email:testadmin@test.test
+    -  password: password
 
