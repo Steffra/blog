@@ -1,6 +1,6 @@
 Dockerized implementation of a basic blog application.
 
-The original task description can be read **[here]( https://gitlab.timebite.eu/rec-challenges/take-home-challenge-bertold-krausz/-/blob/master/description.md "here.")**.
+The original task description can be read **[here](https://github.com/Steffra/blog/blob/main/description.md "here.")**.
 ## Prerequisites
 - Make sure you have **docker**, and **docker compose** installed.
 
