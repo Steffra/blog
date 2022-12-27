@@ -1,5 +1,3 @@
-# Dotbite take home challange
-
 Dockerized implementation of a basic blog application.
 
 The original task description can be read **[here]( https://gitlab.timebite.eu/rec-challenges/take-home-challenge-bertold-krausz/-/blob/master/description.md "here.")**.
