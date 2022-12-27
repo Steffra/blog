@@ -1,5 +1,3 @@
-# Dotbite Take Home Challenge Bertold Krausz
-
 ### Objective
 
 Create a simplified blog application using PHP and Laravel.
